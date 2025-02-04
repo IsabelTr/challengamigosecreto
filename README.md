@@ -13,3 +13,17 @@ Este é um simples jogo de **Amigo Secreto** em JavaScript, onde os participante
 - HTML: Estrutura da página.
 - CSS: Estilo básico para a página.
 - JavaScript: Lógica do jogo e interação com a interface.
+
+
+## Estrutura do código
+index.html
+O arquivo HTML básico onde a interface é criada. Contém campos para adicionar os participantes e botões para realizar as ações.
+
+script.js
+O código JavaScript que realiza as principais funções:
+
+adicionarNomes: Adiciona nomes à lista de participantes.
+atualizarLista: Exibe a lista atualizada de participantes.
+sortearAmigo: Realiza o sorteio dos amigos secretos e exibe o resultado.
+
+
