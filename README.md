@@ -11,5 +11,5 @@ Este é um simples jogo de **Amigo Secreto** em JavaScript, onde os participante
 
 ## Tecnologias utilizadas
 - HTML: Estrutura da página.
-- CSS: Estilo básico para a página (caso utilizado).
+- CSS: Estilo básico para a página.
 - JavaScript: Lógica do jogo e interação com a interface.
