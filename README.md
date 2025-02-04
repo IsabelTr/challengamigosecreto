@@ -1,14 +1,15 @@
-# Jogo Amigo Secreto
+# Jogo de Amigo Secreto
 
-O jogo "Amigo Secreto" é uma aplicação simples que realiza o sorteio de amigos secretos entre um grupo de pessoas.O objetivo é gerar de forma aleatória quem irá dar o presente a quem, criando um clima de mistério e diversão!
+Este é um simples jogo de **Amigo Secreto** em JavaScript, onde os participantes são sorteados aleatoriamente para dar presentes uns aos outros. O jogo permite adicionar nomes, realizar o sorteio e mostrar o resultado.
 
 ## Funcionalidades
 
-- Sorteio aleatório de amigos secretos.
-- Garante que ninguém tire a si mesmo.
-- Interface simples e interativa.
+- Adicionar participantes ao sorteio.
+- Garantir que um participante não tire a si mesmo.
+- Exibir o resultado do sorteio de forma clara.
+- Validação de entrada para garantir que os nomes não sejam duplicados.
 
-### Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
+## Tecnologias utilizadas
+- HTML: Estrutura da página.
+- CSS: Estilo básico para a página (caso utilizado).
+- JavaScript: Lógica do jogo e interação com a interface.
